@@ -1,6 +1,8 @@
 # Parallax-Effect
 
-Jarallax Plugin|URL = https://github.com/nk-o/jarallax
+Jarallax Plugin | URL = https://github.com/nk-o/jarallax
+
+Reference | URL = https://www.youtube.com/watch?v=0a7TeYL_Cs0&t=75s
 
 Screenshots -----------------------------------------------------------------------
 
